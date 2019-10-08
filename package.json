@@ -1,0 +1,14 @@
+{
+  "name": "epsilon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eng.controls.js",
+  "scripts": {
+    "eng": "node eng.controls.js",
+    "rename": "node renameship.cmd.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
